@@ -16,3 +16,4 @@ Test：
 
 Prepare the dataset you want to test, add its path in the testing file, and include the trained weight file for testing.
 
+**"For other details, please refer to the paper."**
